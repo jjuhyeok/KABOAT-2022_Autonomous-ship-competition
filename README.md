@@ -1,4 +1,4 @@
-# KABOAT-2022_Autonomous-ship-competition  [(Link)](http://imc.sejong.ac.kr/bbs_shop/read.htmme_popup=&auto_frame=&cate_sub_idx=0&search_first_subject=&list_mode=board&board_code=news&search_key=&key=&page=&idx=179879)
+# KABOAT-2022_Autonomous-ship-competition  [(Link)]([http://imc.sejong.ac.kr/bbs_shop/read.htmme_popup=&auto_frame=&cate_sub_idx=0&search_first_subject=&list_mode=board&board_code=news&search_key=&key=&page=&idx=179879](http://imc.sejong.ac.kr/bbs_shop/read.htm?me_popup=&auto_frame=&cate_sub_idx=0&search_first_subject=&list_mode=board&board_code=news&search_key=&key=&page=&idx=179879)
 
 ## 🏆 Result
 # 수상 : 장려상
