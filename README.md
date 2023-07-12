@@ -3,6 +3,9 @@
 ## 🏆 Result
 # 수상 : 장려상
 
+
+<img width="100%" src="https://github.com/jjuhyeok/KABOAT-2022_Autonomous-ship-competition/assets/49608953/0d3edb50-402f-4a2c-a5cf-766dafc41548"/>
+
 주최 : LG AI Research
 
 일 시 : 2022년 8월 17일 ~ 2022년 8월 19일
